@@ -1,4 +1,4 @@
-<!-- Isi Konten --> di < div id = 'Konten' >
+<!-- Isi Konten --> 
 
 <div class="image"><img src="https://i.postimg.cc/G2jtnpFr/0906-peacegoma.gif" width="130px" height="130px"/></div><!--<div id="sp1"></div>-->
 
@@ -7,10 +7,5 @@
 
 # PENGGUNA PARA BUCIN 
 
-• Harus Sayangi dia
-
-• Cewek pengen di banggain 
-
-• Jangan menduakan perempuan
-
-• Cewek pengen di mengerti 
+• Harus 
+kami
