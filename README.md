@@ -7,5 +7,4 @@
 
 # PENGGUNA PARA BUCIN 
 
-• Harus 
-kami
+• Sayangi perempuan yang kita cintai
