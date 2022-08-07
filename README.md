@@ -8,4 +8,9 @@
 # PENGGUNA PARA BUCIN 
 
 • Harus Sayangi dia
+
 • Cewek pengen di banggain 
+
+• Jangan menduakan perempuan
+
+• Cewek pengen di mengerti 
