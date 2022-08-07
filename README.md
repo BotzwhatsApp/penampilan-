@@ -6,7 +6,8 @@
 
 <!-- Isi Konten --><div id='Content'>
 
-<  div   class = "image"  ><  img   src = " "   width = "130px"   height = "130px"  /></  div  >  <!--<div id ="sp1"></div>-->https://i.postimg.cc/hj9kJXdg/bear-run-cant-run.gif
-
-<div><blockquote><p id="text"></p><p id="text2"></p><p onClick="popup();" id="tlink">[ Klik Ini Dong! ]</p></blockquote></div></div>
-
+<          div           class = "image"          ><          img           src = " "           width = "130px"           height = "130px"          /></          div          >          <!--<div id ="sp1"></div>--> https://i.postimg.cc/QMryKNTR/uwu.gif
+kami
+<   div   ><   blockquote   ><   p    id = "text"   ></   p   ><   p    id = "text2"   ></   p   ><   p    onClick = "popup();"    id = "tlink"   > [ Klik Ini Dong! ] </   p   ></   blockquote   ></   div   ></   div   >
+kami
+kami
