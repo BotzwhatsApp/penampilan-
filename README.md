@@ -1,4 +1,4 @@
-<!-- Isi Konten --><div id='Content'>
+<!-- Isi Konten --> di < div id = 'Konten' >
 
 <div class="image"><img src="https://i.postimg.cc/G2jtnpFr/0906-peacegoma.gif" width="130px" height="130px"/></div><!--<div id="sp1"></div>-->
 
@@ -7,4 +7,5 @@
 
 # PENGGUNA PARA BUCIN 
 
--AJAK MAEN CWEK LO
+• Harus 
+kami
